@@ -27,7 +27,7 @@ The goal was to design a small desktop image-editing application with a custom g
 
 - `Initial_and_Settings.pde` – initialization and basic settings
 - `Main_Functions.pde` – main functional implementation
-- `main.pde` – visualize interface
+- `PSO.pde` – visualize interface
 - `data` – image assets and project resources
 
 ## How to Run
@@ -35,7 +35,7 @@ The goal was to design a small desktop image-editing application with a custom g
 ### Option 1 Run in Processing
 1. Install Processing
 2. Open the project folder
-3. Open the `main.pde` file in **Processing**
+3. Open the `PSO.pde` file in **Processing**
 4. Click Run
 
 ### Option 2 Run the Windows executable
